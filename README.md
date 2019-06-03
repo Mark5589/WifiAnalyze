@@ -57,10 +57,10 @@ the 3-th argument is the CSV file with wifi records that will be processed.
 
 ### plotly
 
-![alt text](https://github.com/Mark5589/WifiAnalyze/blob/master/image/MongoAtlas.png)
+![alt text](https://github.com/Mark5589/WifiAnalyze/blob/master/image/chart.png)
 
 ### MongoDB Atlas
 
 
 
-![MongoAtlas](/Users/recon/workspace/3-python/1-wifiAnalyz/image/MongoAtlas.png)
+![MongoAtlas](https://github.com/Mark5589/WifiAnalyze/blob/master/image/MongoAtlas.png)
