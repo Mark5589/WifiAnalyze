@@ -62,7 +62,7 @@ the 3-th argument is the CSV/JSON file with wifi records that will be processed.
 
 ### plotly
 
-![alt text](https://github.com/Mark5589/WifiAnalyze/blob/master/image/chart.png)
+![alt text](https://github.com/Mark5589/WifiAnalyze/blob/master/image/wigleresult2.png)
 
 ### MongoDB Atlas
 
