@@ -2,9 +2,11 @@
 
 ## Installation
 
-### Reqierments:
+### Requirments:
 ***NOTE*** its good to check that your machine has the following libraries (at least):  `pprint`
 
+# Optional
+    >> can run offline, by the localhost.
 1.  * install '*plotly*' library with the command:
         `pip install plotly --upgrade`
     * configure the plotly: run `python` in your terminal, `import plotly`
@@ -18,7 +20,7 @@
 
    * also check that you can run MongoDB on your local machine.	 cmd: `mongod`
 
-   * if  any error occurs try this 
+   * if  any error occurs try this:
 
      documentation: [http://api.mongodb.com/python/current/tutorial.html](http://api.mongodb.com/python/current/tutorial.html)
 
@@ -28,9 +30,9 @@
 
 To run this program use the following command:
 
-`python app.py <CSV file with wifi records> `
+`python app.py <CSV file with wifi records>|<Json file i.e isrealRecords.json>`
 
-the 3-th argument is the CSV file with wifi records that will be processed.
+the 3-th argument is the CSV/JSON file with wifi records that will be processed.
 
 
 
@@ -48,8 +50,11 @@ the 3-th argument is the CSV file with wifi records that will be processed.
 8. ~~Try some connection to MongoDB, with uploading data to the db~~
 9. ~~Upload our data to MongoDB Atlas~~
 10. ~~Represent our data with Chart~~
-11. Avoid duplicates of the data. (With the help of the MAC)
-    * This fuctionalty shuold be done in the backend level because once the data is processed, it sends to the chart API and after that to the MongoDB
+11. ~~Avoid duplicates of the data. (With the help of the MAC)~~
+    * ~~This fuctionalty shuold be done in the backend level because once the data is processed, it sends to the chart API and after that to the MongoDB~~
+12. Deal with Wigle API
+13. ~~Deal with Wigle API result query~~
+14. ~~Represent the data divided to cities~~
 
 
 

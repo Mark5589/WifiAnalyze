@@ -1,0 +1,23 @@
+
+## TEl AVIV
+TLV_lat = 32.085300
+TLV_lon = 34.781769
+
+#Petha tikva
+PET_TIK_lat = 32.089870
+PET_TIK_lon = 34.880451
+
+# Haifa
+HAIFA_lat = 32.794044
+HAIFA_lon = 34.989571
+
+# Rishon LeZion
+RISHON_lat = 31.96731
+RISHON_lon = 34.79919
+
+
+EARTH_RADIUS = 6371
+
+
+
+
